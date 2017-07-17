@@ -1,0 +1,14 @@
+li{
+  font-family:cursive;
+}
+html{
+  background-image: url(https://rockynash.files.wordpress.com/2012/05/photographerunknown.jpg);
+}
+ul{
+  width: 5cm;
+  height: 5cm;
+  padding: 40px;
+  border: 10px solid black;
+  margin: 20px;
+  background-color: white
+}
