@@ -6,9 +6,23 @@ html{
 }
 ul{
   width: 5cm;
-  height: 5cm;
+  height: 7cm;
   padding: 40px;
   border: 10px solid black;
   margin: 20px;
   background-color: white
+}
+
+h2{
+  color: white;
+}
+
+#selfPortrait{
+  width: 20%
+  height: 30%
+}
+/*sos^*/
+
+h1{
+  font-family:cursive;
 }
